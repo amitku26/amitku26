@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate frontend developer from Delhi India</h3>
+<h3 align="center">A passionate Full Stack developer from Delhi India</h3>
 
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180">
 
